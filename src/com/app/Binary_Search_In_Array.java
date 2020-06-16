@@ -1,4 +1,5 @@
 package com.app;
+
 /* 
  write a binary search program to search wheather the given number present in array or not?
  input:
